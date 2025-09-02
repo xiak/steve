@@ -214,8 +214,6 @@ github.com/prometheus/common v0.62.0 h1:xasJaQlnWAeyHdUBeGjXmutelfJHWMRr+Fg4QszZ
 github.com/prometheus/common v0.62.0/go.mod h1:vyBcEuLSvWos9B1+CyL7JZ2up+uFzXhkqml0W5zIY1I=
 github.com/prometheus/procfs v0.15.1 h1:YagwOFzUgYfKKHX6Dr+sHT7km/hxC76UB0learggepc=
 github.com/prometheus/procfs v0.15.1/go.mod h1:fB45yRUv8NstnjriLhBQLuOUt+WW4BsoGhij/e3PBqk=
-github.com/rancher/apiserver v0.6.3 h1:O77xSHtDNNq8j9+FjyoMoJNaNomnA/doYK9ON8bDeEA=
-github.com/rancher/apiserver v0.6.3/go.mod h1:hCNwZwGitxLDIFrhkN+8smoRXKYOJ9zqOCwIAX+sHcQ=
 github.com/rancher/dynamiclistener v0.7.0 h1:+jyfZ4lVamc1UbKWo8V8dhSPtCgRZYaY8nm7wiHeko4=
 github.com/rancher/dynamiclistener v0.7.0/go.mod h1:Q2YA42xp7Xc69JiSlJ8GpvLvze261T0iQ/TP4RdMCYk=
 github.com/rancher/kubernetes-provider-detector v0.1.5 h1:hWRAsWuJOemzGjz/XrbTlM7QmfO4OedvFE3QwXiH60I=
@@ -265,6 +263,8 @@ github.com/urfave/cli/v2 v2.27.7 h1:bH59vdhbjLv3LAvIu6gd0usJHgoTTPhCFib8qqOwXYU=
 github.com/urfave/cli/v2 v2.27.7/go.mod h1:CyNAG/xg+iAOg0N4MPGZqVmv2rCoP267496AOXUZjA4=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
 github.com/x448/float16 v0.8.4/go.mod h1:14CWIYCyZA/cWjXOioeEpHeN/83MdbZDRQHoFcYsOfg=
+github.com/xiak/apiserver v0.6.3-x1 h1:PHuChc0rT8V79TT+0g/5EZJEvaiEKzbBC0oYHYZyY/k=
+github.com/xiak/apiserver v0.6.3-x1/go.mod h1:hCNwZwGitxLDIFrhkN+8smoRXKYOJ9zqOCwIAX+sHcQ=
 github.com/xiang90/probing v0.0.0-20221125231312-a49e3df8f510 h1:S2dVYn90KE98chqDkyE9Z4N61UnQd+KOfgp5Iu53llk=
 github.com/xiang90/probing v0.0.0-20221125231312-a49e3df8f510/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
 github.com/xrash/smetrics v0.0.0-20240521201337-686a1a2994c1 h1:gEOO8jv9F4OT7lGCjxCBTO/36wtF6j2nSip77qHd4x4=
